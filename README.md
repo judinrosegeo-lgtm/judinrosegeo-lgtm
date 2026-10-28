@@ -2,8 +2,6 @@
 
 **Actuarial Professional** | M.Sc. Actuarial Science | P&C Reserving & Pricing | Pension Analytics | Python • SQL • Excel
 
-📍 Toronto, ON, Canada
-
 I'm an actuarial analyst with 3+ years in Property & Casualty insurance: reserving, pricing support, loss ratio analysis and regulatory reporting. I like turning actuarial results into clear recommendations people can act on.
 
 ## 💼 Experience
@@ -35,5 +33,4 @@ I'm an actuarial analyst with 3+ years in Property & Casualty insurance: reservi
 
 - M.Sc. Actuarial Science, St. Joseph's Academy, Kerala
 - B.Sc. Mathematics, Alphonsa College, Kerala
-- SOA Exam FM (in progress)
 - DataCamp: Python for Data Analysis, SQL Fundamentals · LinkedIn Learning: Data Science Foundations
